@@ -109,6 +109,6 @@ Keep the word in lowercase letters only, and do not include the word itself in t
 
 ## Author
 
-[@Tuhintech1278](https://github.com/Tuhintech1278)
+[@Pragyaraj12](https://github.com/Pragyaraj12)
 
 Built as part of the CodeAlpha tasks.
