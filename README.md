@@ -12,7 +12,7 @@ This project is **Task 1** of my [CodeAlpha](https://www.codealpha.tech/) tasks.
 
 | Win | Loss |
 | :---: | :---: |
-| ![Win](screenshots/win.png) | ![Loss](screenshots/lose.png) |
+| ![Win](Hangman-Web/Screenshots/win.png) | ![Loss](screenshots/lose.png) |
 
 ## Features
 
